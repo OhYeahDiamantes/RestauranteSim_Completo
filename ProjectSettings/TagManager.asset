@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 3
+  tags:
+  - FoodButton
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - si
+  - Water
+  - UI
+  - Interactable
+  - dinero
+  - player
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: si
+    uniqueID: 4074698239
+    locked: 0
+  - name: venta
+    uniqueID: 2311776003
+    locked: 0
+  - name: piso up
+    uniqueID: 2562172767
+    locked: 0
+  - name: Tinto
+    uniqueID: 195449143
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  m_RenderingLayers:
+  - Default
